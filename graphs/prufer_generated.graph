@@ -1,0 +1,390 @@
+{
+  "vertices": [
+    {
+      "x": 795,
+      "y": -380,
+      "name": "1",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 756,
+      "y": -184,
+      "name": "2",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 717,
+      "y": 11,
+      "name": "3",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 753,
+      "y": 230,
+      "name": "4",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 933,
+      "y": 101,
+      "name": "5",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 977,
+      "y": -105,
+      "name": "6",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 1107,
+      "y": -18,
+      "name": "7",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 741,
+      "y": 458,
+      "name": "8",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 741,
+      "y": 741,
+      "name": "9",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 600,
+      "y": 600,
+      "name": "10",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 458,
+      "y": 741,
+      "name": "11",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 458,
+      "y": 458,
+      "name": "12",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 317,
+      "y": 317,
+      "name": "13",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 969,
+      "y": 446,
+      "name": "14",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 1098,
+      "y": 266,
+      "name": "15",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 1218,
+      "y": 92,
+      "name": "16",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 1305,
+      "y": 222,
+      "name": "17",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 1481,
+      "y": 128,
+      "name": "18",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 1188,
+      "y": 482,
+      "name": "19",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 1365,
+      "y": 367,
+      "name": "20",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 1556,
+      "y": 309,
+      "name": "21",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 1396,
+      "y": 521,
+      "name": "22",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    },
+    {
+      "x": 1595,
+      "y": 501,
+      "name": "23",
+      "radius": 20,
+      "background": "#ffffff",
+      "fontSize": 18,
+      "color": "#000000",
+      "border": "#000000"
+    }
+  ],
+  "edges": [
+    {
+      "vertex1": 0,
+      "vertex2": 1,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 1,
+      "vertex2": 2,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 2,
+      "vertex2": 3,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 3,
+      "vertex2": 4,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 3,
+      "vertex2": 7,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 4,
+      "vertex2": 5,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 4,
+      "vertex2": 6,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 7,
+      "vertex2": 9,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 7,
+      "vertex2": 13,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 8,
+      "vertex2": 9,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 9,
+      "vertex2": 10,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 9,
+      "vertex2": 11,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 11,
+      "vertex2": 12,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 13,
+      "vertex2": 14,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 13,
+      "vertex2": 18,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 14,
+      "vertex2": 15,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 14,
+      "vertex2": 16,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 16,
+      "vertex2": 17,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 18,
+      "vertex2": 19,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 18,
+      "vertex2": 21,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 19,
+      "vertex2": 20,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    },
+    {
+      "vertex1": 21,
+      "vertex2": 22,
+      "isDirected": false,
+      "lineWidth": 2,
+      "color": "#000000"
+    }
+  ]
+}
