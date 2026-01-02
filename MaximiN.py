@@ -364,17 +364,17 @@ def minimax_by_csp(vertices: List[str], edges: List[Tuple[str, str]], time_per_k
         print(f"Пробуем k = {mid} (таймаут {tlimit:.1f}s)...", end=" ")
         order = feasible_k_minimax(vertices, edges, mid, time_limit=tlimit)
         if order is not None:
-            print("✅ FEASIBLE")
+            print("FEASIBLE")
             best_order, best_k = order, mid
             hi = mid - 1
         else:
-            print("❌ UNSAT")
+            print("UNSAT")
             lo = mid + 1
 
     if best_order is not None:
-        print(f"✅ Оптимальное значение minimax ≤ {best_k}")
+        print(f"Оптимальное значение minimax ≤ {best_k}")
     else:
-        print("⚠️ Решение не найдено в лимите.")
+        print("Решение не найдено в лимите.")
     return best_order, best_k
 
 # ---------- Initial orders ----------
