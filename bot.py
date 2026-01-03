@@ -190,3 +190,6 @@ async def process_graph(message: types.Message, state: FSMContext, file_path: st
 
 if __name__ == "__main__":
     asyncio.run(dp.start_polling(bot))
+
+
+# ЫЫЫЫЫЫЫ
